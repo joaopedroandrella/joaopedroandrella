@@ -1,6 +1,7 @@
 ### Olá! Eu sou o João Pedro Andrella
 
 - 🔭 Hoje trabalho com front-end
+- 🎯 Pretendo ser desenvolvedor full stack
 - 🌱 Estudando Vue.js | Angular | C#
 
 <div align="center">
