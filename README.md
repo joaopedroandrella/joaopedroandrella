@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Pedro Andrella
 
-- 💻 Desenvolvedor Front-End
-- 📚 Sempre Disposto a Aprender Novas Tecnologias 
+- 💻 Desenvolvedor de Software
+- 📚 Sempre Disposto a Aprender e Melhorar Como Professional
 
 <div align="center">
   <a href="https://github.com/joaopedroandrella">
