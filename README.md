@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Pedro Andrella
 
-- 💻 Desenvolvedor de Software
+- 💻 Desenvolvedor de Software Treinee
 - 📚 Curioso e Sempre Disposto a Aprender Novas Tecnologias e Melhorar Como Professional
 
 <div align="center">
