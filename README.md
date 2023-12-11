@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Pedro Andrella
 
-- 💻 Desenvolvedor de Software Treinee
+- 💻 Desenvolvedor de Software C# | Vue.js
 - 📚 Curioso e Sempre Disposto a Aprender Novas Tecnologias e Melhorar Como Profissional
 
 <div align="center">
